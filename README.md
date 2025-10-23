@@ -1,1 +1,1 @@
-# main-website
+This repository is mainly used for project planning and issue management for the Hubs Foundation's main website (https://hubsfoundation.org), plus any other bits and bobs that are related to it that we need to keep track of.
