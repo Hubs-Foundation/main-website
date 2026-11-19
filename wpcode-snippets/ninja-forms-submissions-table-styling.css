@@ -1,0 +1,11 @@
+.ninja-forms-views-submissions-table table {
+    border-collapse: collapse;
+}
+
+.ninja-forms-views-submissions-table th {
+    border: 1px solid #000;
+}
+
+.ninja-forms-views-submissions-table td {
+    border: 1px solid #000;
+}
